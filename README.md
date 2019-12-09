@@ -1,12 +1,12 @@
 # EIP_A4
 
-* Two models : ResNet56_v1, ResNet20_v1 were implemented.
+* Three models were implemented: ResNet56_v1 with Learning Rate adjusted in 4 steps , ResNet56_v1 with Learning Rate adjusted in 4 steps, ResNet20_v1.
 
-* Resnet56_v1 gives the best validation accuracy and validation loss :
+* Resnet56_v1 with Learning Rate adjusted in 4 steps gives the best validation accuracy and validation loss :
   Test loss: 0.5038006238937378
   Test accuracy: 0.8981999754905701
 
-* Gradcam visualisations of ResNet56_v1 were better than that of ResNet20_v1
+* Gradcam visualisations of ResNet56_v1 models were better than that of ResNet20_v1.
 
 
 
