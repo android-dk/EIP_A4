@@ -6,7 +6,7 @@
   Test loss: 0.5038006238937378
   Test accuracy: 0.8981999754905701
 
-* Gradcam visualisations are best achieved in ResNet56_v1
+* Gradcam visualisations of ResNet56_v1 were better than that of ResNet20_v1
 
 
 
