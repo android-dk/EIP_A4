@@ -1,6 +1,6 @@
 # EIP_A4
 
-* Three models were implemented: ResNet56_v1 with Learning Rate adjusted in 4 steps , ResNet56_v1 with Learning Rate adjusted in 4 steps, ResNet20_v1.
+* Three models were implemented: ResNet56_v1 with Learning Rate adjusted in 4 steps , ResNet56_v1 with Learning Rate adjusted in 5 steps, ResNet20_v1.
 
 * Resnet56_v1 with Learning Rate adjusted in 4 steps gives the best validation accuracy and validation loss :
   Test loss: 0.5038006238937378
