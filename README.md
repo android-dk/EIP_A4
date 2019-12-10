@@ -2,7 +2,7 @@
 
 * Three models were implemented: ResNet56_v1 with Learning Rate adjusted in 4 steps , ResNet56_v1 with Learning Rate adjusted in 5 steps, ResNet20_v1.
 
-* All models have an accuracy greater than 88%
+* All models have a validation accuracy of greater than 88%
 
 * Resnet56_v1 with Learning Rate adjusted in 4 steps gives the best validation accuracy and validation loss :
   
