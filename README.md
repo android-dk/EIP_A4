@@ -3,6 +3,8 @@
 * Three models were implemented: ResNet56_v1 with Learning Rate adjusted in 4 steps , ResNet56_v1 with Learning Rate adjusted in 5 steps, ResNet20_v1.
 
 * Resnet56_v1 with Learning Rate adjusted in 4 steps gives the best validation accuracy and validation loss :
+  
+  
   Test loss: 0.5038006238937378
   Test accuracy: 0.8981999754905701
 
