@@ -5,8 +5,8 @@
 * Resnet56_v1 with Learning Rate adjusted in 4 steps gives the best validation accuracy and validation loss :
   
   
-    ** Test loss: 0.5038006238937378
-    ** Test accuracy: 0.8981999754905701
+    * Test loss: 0.5038006238937378
+    * Test accuracy: 0.8981999754905701
 
 * Gradcam visualisations of ResNet56_v1 models were better than that of ResNet20_v1.
 
